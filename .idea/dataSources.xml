@@ -29,5 +29,13 @@
       <jdbc-url>jdbc:mysql://10.88.182.120:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="Yan-Chang-107" uuid="a61ba117-2bc9-45e4-a76b-9078641b6e21">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>Yan-Chang-107</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://tudou66.com:20000/ycsc</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
